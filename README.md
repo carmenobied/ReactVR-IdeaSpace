@@ -1,2 +1,2 @@
 # ReactVR-IdeaSpace
-VR-Connect: IdeaSpace App (using ReactVR)
+IdeaSpaceVR App (using ReactVR)
